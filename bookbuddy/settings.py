@@ -84,10 +84,10 @@ WSGI_APPLICATION = 'bookbuddy.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'bookbuddy',
-        'USER': 'postgres',
-        'PASSWORD': '12345',
-        'HOST': 'localhost',
+        'NAME': 'davaakn0pnbnq7',
+        'USER': 'vznvqepjhhekyy',
+        'PASSWORD': '875d7fd633da3550579c7126bfd475dc616f328d21d06d65f9e862b689b48fb5',
+        'HOST': 'ec2-34-230-110-100.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
